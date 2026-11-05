@@ -1,17 +1,44 @@
-# Hallo, I'm Sina 👋
+<div align="center">
+  
+# 🔩Sina's Programming Journy
+
+</div>
 
 I am a Computer Science student and software developer with a strong focus on **low-level systems, graphics programming, and embedded engineering**. I enjoy building from first principles—whether that means wrestling with memory models, writing bare-metal C for microcontrollers, or constructing custom math structures for renderers. 
 
 Currently, I am expanding my portfolio and preparing for junior software development.
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sina-Ab&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
+<pre align="center">
+                                     )
+                            )      ((     (
+                           (        ))     )
+                    )       )      //     (
+               _   (        __    (     ~->>
+        ,-----' |__,_~~___<'__`)-~__--__-~->> <
+        | //  : | -__   ~__ o)____)),__ - '> >-  >
+        | //  : |- \_ \ -\_\ -\ \ \ ~\_  \ ->> - ,  >>
+        | //  : |_~_\ -\__\ \~'\ \ \, \__ . -<-  >>
+        `-----._| `  -__`-- - ~~ -- ` --~> >
+         _/___\_    //)_`//  | ||]
+   _____[_______]_[~~-_ (.L_/  ||
+  [____________________]' `\_,/'/
+    ||| /          |||  ,___,'./
+    ||| \          |||,'______|
+    ||| /          /|| I==||
+    ||| \       __/_||  __||__
+-----||-/------`-._/||-o--o---o---
+  ~~~~~'
+</pre>
+
+---
 ### 🛠️ Languages & Core Tools
+
 <p align="center">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/GDScript-478CBF?style=for-the-badge&logo=godotengine&logoColor=white" alt="GDScript" />
+  <img src="https://img.shields.io/badge/Arduino_C%2B%2B-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino Language" />
   <img src="https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white" alt="OpenGL" />
   <img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white" alt="CMake" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
@@ -26,7 +53,7 @@ Currently, I am expanding my portfolio and preparing for junior software develop
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
 </p>
 
-
+---
 ### 🔭 What I'm Working On
 - **Graphics Software:** Building custom 2D renderers and raycasters in C++ and OpenGL.
 - **Hardware Emulation:** Exploring hardware architecture by constructing emulators from scratch.
@@ -38,6 +65,14 @@ When I'm not configuring build systems or debugging memory leaks, you can usuall
 - Modifying hardware, from suppressing EMI on my guitar signal chain to building out microcontroller circuits.
 
 ---
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sina-Ab&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</div>
+<table align="center" border="0">
+  <tr>
+    <td align="center" valign="middle">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sina-Ab&theme=ayu_mirage" alt="Profile Details" />
+    </td>
+    <td align="center" valign="middle">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sina-Ab&theme=ayu_mirage" alt="Repos per Language" />
+    </td>
+  </tr>
+</table>
+
