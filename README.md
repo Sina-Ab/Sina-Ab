@@ -7,32 +7,32 @@
 I am a Computer Science student and software developer with a strong focus on **low-level systems, graphics programming, and embedded engineering**. I enjoy building from first principles—whether that means wrestling with memory models, writing bare-metal C for microcontrollers, or constructing custom math structures for renderers. 
 
 Currently, I am expanding my portfolio and preparing for junior software development.
-<table align="center">
-<tr>
-<td>
 
+<div align="left">
+  
 ```
-                                     )
-                            )      ((     (
-                           (        ))     )
-                    )       )      //     (
-               _   (        __    (     ~->>
-        ,-----' |__,_~~___<'__`)-~__--__-~->> <
-        | //  : | -__   ~__ o)____)),__ - '> >-  >
-        | //  : |- \_ \ -\_\ -\ \ \ ~\_  \ ->> - ,  >>
-        | //  : |_~_\ -\__\ \~'\ \ \, \__ . -<-  >>
-        `-----._| `  -__`-- - ~~ -- ` --~> >
-         _/___\_    //)_`//  | ||]
-   _____[_______]_[~~-_ (.L_/  ||
-  [____________________]' `\_,/'/
-    ||| /          |||  ,___,'./
-    ||| \          |||,'______|
-    ||| /          /|| I==||
-    ||| \       __/_||  __||__
------||-/------`-._/||-o--o---o---
-  ~~~~~'
+                                                                           )
+                                                                  )      ((     (
+                                                                 (        ))     )
+                                                          )       )      //     (
+                                                     _   (        __    (     ~->>
+                                              ,-----' |__,_~~___<'__`)-~__--__-~->> <
+                                              | //  : | -__   ~__ o)____)),__ - '> >-  >
+                                              | //  : |- \_ \ -\_\ -\ \ \ ~\_  \ ->> - ,  >>
+                                              | //  : |_~_\ -\__\ \~'\ \ \, \__ . -<-  >>
+                                              `-----._| `  -__`-- - ~~ -- ` --~> >
+                                               _/___\_    //)_`//  | ||]
+                                         _____[_______]_[~~-_ (.L_/  ||
+                                        [____________________]' `\_,/'/
+                                          ||| /          |||  ,___,'./
+                                          ||| \          |||,'______|
+                                          ||| /          /|| I==||
+                                          ||| \       __/_||  __||__
+                                      -----||-/------`-._/||-o--o---o---
+                                        ~~~~~'
 ```
-</table>
+
+</div>
 
 ---
 ### 🛠️ Languages & Core Tools
