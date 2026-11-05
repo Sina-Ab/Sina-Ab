@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hallo, I'm Sina 👋
 
-<!--
-**Sina-Ab/Sina-Ab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Computer Science student and software developer with a strong focus on **low-level systems, graphics programming, and embedded engineering**. I enjoy building from first principles—whether that means wrestling with memory models, writing bare-metal C for microcontrollers, or constructing custom math structures for renderers. 
 
-Here are some ideas to get you started:
+Currently, I am expanding my portfolio and preparing for junior software development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</div>
+### 🛠️ Languages & Core Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white" alt="OpenGL" />
+  <img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white" alt="CMake" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
+
+### ⚡ Hardware, Embedded & Systems
+<p align="center">
+  <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white" alt="Raspberry Pi" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
+  <img src="https://img.shields.io/badge/ESP8266-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP8266" />
+  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux" />
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
+</p>
+
+
+### 🔭 What I'm Working On
+- **Graphics Software:** Building custom 2D renderers and raycasters in C++ and OpenGL.
+- **Hardware Emulation:** Exploring hardware architecture by constructing emulators from scratch.
+
+### ⚡ Beyond the Code
+When I'm not configuring build systems or debugging memory leaks, you can usually find me:
+- Playing electric guitar and producing music in Ableton Live.
+- Playing videogames.
+- Modifying hardware, from suppressing EMI on my guitar signal chain to building out microcontroller circuits.
+
+---
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</div>
