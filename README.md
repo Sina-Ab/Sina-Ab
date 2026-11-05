@@ -7,8 +7,11 @@
 I am a Computer Science student and software developer with a strong focus on **low-level systems, graphics programming, and embedded engineering**. I enjoy building from first principles—whether that means wrestling with memory models, writing bare-metal C for microcontrollers, or constructing custom math structures for renderers. 
 
 Currently, I am expanding my portfolio and preparing for junior software development.
+<table align="center">
+<tr>
+<td>
 
-<pre align="center">
+```
                                      )
                             )      ((     (
                            (        ))     )
@@ -28,7 +31,8 @@ Currently, I am expanding my portfolio and preparing for junior software develop
     ||| \       __/_||  __||__
 -----||-/------`-._/||-o--o---o---
   ~~~~~'
-</pre>
+```
+</table>
 
 ---
 ### 🛠️ Languages & Core Tools
