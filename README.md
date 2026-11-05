@@ -5,7 +5,7 @@ I am a Computer Science student and software developer with a strong focus on **
 Currently, I am expanding my portfolio and preparing for junior software development.
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sina-Ab&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 ### 🛠️ Languages & Core Tools
 <p align="center">
@@ -39,5 +39,5 @@ When I'm not configuring build systems or debugging memory leaks, you can usuall
 
 ---
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sina-Ab&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </div>
